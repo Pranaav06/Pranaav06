@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Pranaav S
 
 🎓 **B.Sc Computer Science (AI & DS) Student**  
-🤖 **Aspiring Machine Learning | AI & ML Enthusiast**  
+🤖 **Aspiring Machine Learning Enthusiast**  
 🐍 Python Developer | Machine Learning Projects  
 
 I am passionate about building data-driven solutions using Machine Learning.  
