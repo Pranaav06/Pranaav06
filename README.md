@@ -1,16 +1,34 @@
-## Hi there 👋
+## 👋 Hi, I'm Pranaav S
 
-<!--
-**Pranaav06/Pranaav06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Sc Computer Science (AI & DS) Student**  
+🤖 **Aspiring Machine Learning | AI & ML Enthusiast**  
+🐍 Python Developer | Machine Learning Projects  
 
-Here are some ideas to get you started:
+I am passionate about building data-driven solutions using Machine Learning.  
+I enjoy working on real-world datasets and developing ML models — from data preprocessing to evaluation and deployment-ready logic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Technical Skills
+
+- **Programming:** Python, Java 
+- **Machine Learning:** Classification, Regression, Clustering  
+- **Libraries:** NumPy, Pandas, Scikit-learn  
+- **Tools:** Jupyter Notebook, Git, GitHub, VS Code  
+
+---
+
+### 🎯 Current Focus
+
+- Strengthening Machine Learning fundamentals  
+- Building industry-relevant ML projects  
+- Improving model accuracy and evaluation  
+- Preparing for ML internships and entry-level roles  
+
+---
+
+### 🚀 Career Goal
+
+To grow as a **Machine Learning Engineer** and contribute to impactful, data-driven products.
+
+
